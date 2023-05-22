@@ -1,4 +1,4 @@
 # Curso Digital: Git/Versionamento
 
 ## Salvando alterações no Git
-* Comando gir push
+* Comando git push
